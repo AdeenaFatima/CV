@@ -128,7 +128,7 @@
           
             <div><strong>📧 Email:</strong> adeena346@gmail.com</div>
             <div><strong>📞 Phone:</strong> +311 4317390</div>
-            <div><strong>🔗 LinkedIn:</strong> linkedin.com/in/yourprofile</div>
+            <div><strong>🔗 LinkedIn:</strong>linkedin.com/AdeenaFatima</div>
             <div><strong>🐙 GitHub:</strong> github.com/youruse</div>
         </div>
     </div>
